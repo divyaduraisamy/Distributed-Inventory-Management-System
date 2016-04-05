@@ -12,7 +12,7 @@ app:
     - "8082:82"
   
 db:
-  image: app/mysql
+  image: tutum/mysql:5.5
   ports:
      -"3306:3306"
   environment:
