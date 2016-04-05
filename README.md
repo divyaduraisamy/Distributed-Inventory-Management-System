@@ -1,4 +1,6 @@
 # Distributed-Inventory-Management-System
+This project is for the coursework CS 443 - Distributed Object Programming
+
 The project involves three different scenarios , one fo the scenarios whose docker-compose is porvided is ,
   1. Customer places an order in a web application , providing details of his address and his/her requirement. 
      GeoLocation API of google is used to fix the latitude and longitude of the address and request is sent to another container 
