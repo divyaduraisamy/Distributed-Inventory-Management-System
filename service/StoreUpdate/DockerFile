@@ -2,4 +2,4 @@ FROM tomcat: 8.0: -jre8
 COPY ./axis2.war/ /usr/local/tomcat/webapps/
 
  COPY ./StoreUpdate/ /usr/local/tomcat/webapps/
-}
+
