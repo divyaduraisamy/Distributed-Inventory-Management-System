@@ -8,7 +8,7 @@ import java.util.Date;
  */
 
 /**
- * @author Smi
+ * @author Divya
  *
  */
 interface QueryConstants {
